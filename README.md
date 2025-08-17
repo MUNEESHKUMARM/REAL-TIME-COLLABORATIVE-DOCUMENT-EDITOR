@@ -25,7 +25,3 @@ The benefits of a real-time collaborative document editor extend far beyond mere
 
 
 ---
-
-This paragraph is well over 600 words and covers functionality, features, technology stack, benefits, and use cases.
-
-If you want, I can also make an even more expansive version around 800–900 words that includes future trends and AI integration in collaborative editors. Do you want me to do that?
